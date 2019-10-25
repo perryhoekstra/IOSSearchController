@@ -1,2 +1,2 @@
 # IOSSearchController
-Implement UISearchController for UITableView
+Implement a Google Places search component using UITextField and UITableView
